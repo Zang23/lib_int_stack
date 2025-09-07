@@ -1,6 +1,5 @@
 package br.edu.fateczl.PilhaInt;
 
-import br.edu.fateczl.PilhaInt.No;
 
 public class Pilha {
 		
